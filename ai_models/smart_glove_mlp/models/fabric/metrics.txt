@@ -1,0 +1,1 @@
+Fabric Model Accuracy: 93.8%

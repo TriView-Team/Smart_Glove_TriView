@@ -1,0 +1,10 @@
+{
+  "features": [
+    "R",
+    "G",
+    "B",
+    "Hue",
+    "HSL_S",
+    "HSL_L"
+  ]
+}
