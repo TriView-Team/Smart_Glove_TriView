@@ -1,0 +1,7 @@
+numpy>=1.24
+scikit-learn>=1.3
+joblib>=1.3
+bluezero>=0.7.1
+# NFC (PN532 over I2C)
+adafruit-circuitpython-pn532>=2.3.0
+adafruit-blinka>=8.0
