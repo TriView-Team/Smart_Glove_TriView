@@ -23,6 +23,8 @@ AI-powered smart glove designed to assist visually impaired users by identifying
 2. Sensors collect data
 3. AI analyzes the input
 4. Audio feedback is generated
+5. Flex sensor gesture is detected
+6. Results are optionally saved to the app
 
 ## Installation
 
